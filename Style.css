@@ -1,0 +1,12 @@
+body
+{color:blue;
+  background: #428cf4;
+  font-size: 25px;
+  font-family: "Arial";
+}
+p
+{color: green}
+.mammals {font-weight: bold;}
+.birds {font-style: italic;}
+.fish {text-decoration: underline;}
+#sloth {color;green}
